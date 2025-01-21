@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rouby</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning **frameworks as Symfony and ReactJs**
 
-- 👨‍💻 All of my projects are available at [youtube.com](youtube.com)
-
-- 📝 I regularly write articles on [linkedin.com](linkedin.com)
+- 👨‍💻 All of my projects are available at [https://ro6uby.github.io/Portfolio/](https://ro6uby.github.io/Portfolio/)
 
 - 📫 How to reach me **ro6uby@gmail.com**
 
-- 📄 Know about my experiences [resume.link](resume.link)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rouby-rabemananjara-31016117a/?originalSubdomain=fr](https://www.linkedin.com/in/rouby-rabemananjara-31016117a/?originalSubdomain=fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
