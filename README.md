@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rouby-rabemananjara-31016117a/?originalSubdomain=fr](https://www.linkedin.com/in/rouby-rabemananjara-31016117a/?originalSubdomain=fr)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
